@@ -1,0 +1,3 @@
+## Forward Deployed Engineer (FDE)
+
+### A Forward Deployed Engineer (FDE) is a software engineer who embeds with one customer and owns a solution end to end: discovery, build, integration, and production rollout inside that customer's real systems and constraints. What separates an FDE from a consultant is that an FDE ships and maintains working production code; the consultant stops at recommendations.
