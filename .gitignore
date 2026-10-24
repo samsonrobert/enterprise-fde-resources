@@ -1,0 +1,53 @@
+# Java / Spring Boot / Maven / Gradle
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+/target/
+/build/
+out/
+*/target/
+*/build/
+*/out/
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# Gradle
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# Spring Boot
+spring-boot-devtools.properties
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+node_modules/
+
+# Local env/config
+.env
+.env.*
+application-local*.properties
